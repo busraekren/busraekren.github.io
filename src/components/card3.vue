@@ -1,3 +1,4 @@
+<!-- Arayüzde bulunan 3 card'tan üçüncüsü kullanıcı tarafından bu kart üzerine belirlenen değerler data.js ile app.vue üzeriden oluşturulan modelde test ediliyor  -->
 <template>
   <b-card>
             <div>

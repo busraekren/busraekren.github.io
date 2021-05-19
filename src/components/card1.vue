@@ -1,3 +1,4 @@
+<!-- Arayüzde bulunan 3 card'tan birincisi kullanıcı tarafından bu kart üzerine belirlenen değerler data.js ile app.vue üzeriden oluşturulan modelde test ediliyor  -->
 <template>
     <b-card
             title="KNN classifier "
@@ -40,6 +41,7 @@
 </template>
 
 <script>
+// Değerlerin saklandığı data.js dosyası
 import ModelData from '../data/data.js'
 export default {
     data (){

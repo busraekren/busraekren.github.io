@@ -1,3 +1,4 @@
+// Verilerin model üzerinden arayüze aktarılması için kullanılan dosya 
 let ModelData={
     data:{
         //Card1 datas
